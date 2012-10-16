@@ -12,6 +12,7 @@ How to use it?
 Settings
 --------------------------------
 __Speed__: The speed with which the gameObject moves through space.
+
 __Scale__: The scale of the hitbox, which detects your gameObject arriving at a waypoint.
 
 
